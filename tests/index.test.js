@@ -4,6 +4,7 @@ const sinon = require("sinon");
 const expect = chai.expect;
 const test = "hello world";
 const test1 = "another test";
+const test2 = "another test";
 
 const indexPage = require('/Users/dfox/Projects/testing-async-code/tests/controllers/app.controller.js');
 
