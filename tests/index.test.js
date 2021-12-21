@@ -2,6 +2,7 @@ const chai = require("chai");
 const { useFakeXMLHttpRequest } = require("sinon");
 const sinon = require("sinon");
 const expect = chai.expect;
+const test = "hello world";
 
 const indexPage = require('/Users/dfox/Projects/testing-async-code/tests/controllers/app.controller.js');
 
